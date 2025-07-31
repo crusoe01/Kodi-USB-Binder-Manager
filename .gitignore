@@ -1,0 +1,14 @@
+# Ignore PyInstaller build and dist folders
+build/
+dist/
+
+# Ignore the compiled macOS application and its contents
+Kodi USB Binder.final.app/
+
+# Ignore compressed application files (like for Releases)
+*.zip
+
+# Ignore macOS specific files
+.DS_Store
+*.sublime-project
+*.sublime-workspace
