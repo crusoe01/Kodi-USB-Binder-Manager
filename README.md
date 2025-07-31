@@ -3,6 +3,7 @@
 ## ⚠️ Important Notes ⚠️
 
 * **ROOTED LG webOS TV REQUIRED**: This software only works with **rooted** LG webOS TVs with SSH access. Stock TVs are **NOT** supported.
+* **NO SYSTEM-LEVEL INTERFERENCE**: This application **does not perform permanent system-level modifications** on your macOS or LG webOS TV. It sets up scripts and services that can be easily removed via the "Remove All Scripts" function within the app.
 * **SINGLE-USE SETUP TOOL**: This application is used **once** for initial setup. After completing all 3 steps, you can delete this app. The USB binding will continue to work automatically.
 * **MACBOOK MUST BE ON**: The automatic USB drive mounting **only functions when your macOS laptop is powered on** and running the background monitoring script.
 
